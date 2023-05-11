@@ -1,0 +1,33 @@
+@media (max-width:1199px){
+      .pula {
+        margin-left: 60px;
+        margin-bottom: 22px;
+        border-radius: 5px;
+      }
+      .yeakub{
+        border-radius: 5px;
+      }
+    }
+    @media (max-width:991px){
+        .pula{
+            margin-left: 48px;
+        }
+    }
+    @media (max-width:767px){
+        .pula{
+            margin-left: 60px;
+        }
+    }
+
+    @media (max-width:375px){
+        .pula{
+            margin-left: 55px;
+        }
+    }
+
+    @media (max-width:360px){
+        .pula{
+            margin-left: 48px;
+        }
+    }
+
